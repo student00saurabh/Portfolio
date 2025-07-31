@@ -36,7 +36,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering**, I love building
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](images/Screenshot_31-7-2025_17376_student00saurabh.github.io.jpeg  
+![Portfolio Screenshot](https://student00saurabh.github.io/Portfolio/images/Screenshot_31-7-2025_17376_student00saurabh.github.io.jpeg  
 *(Add your own screenshot URL or update this later)*
 
 ---
